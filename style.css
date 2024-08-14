@@ -1,0 +1,21 @@
+body {
+    background-color: gold;
+}
+
+#click {
+    background-color: red;
+    color: white;
+}
+
+#reset {
+    background-color: blue;
+    color: white;
+}
+
+#count {
+    color: blue;
+}
+
+#countResult {
+    color: purple;
+}
